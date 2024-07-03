@@ -6,6 +6,5 @@
 
 # To run the backend:
 
- cd server
  ### `npm install
  ### `npm start 
